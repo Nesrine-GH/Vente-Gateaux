@@ -1,0 +1,60 @@
+<main class="container-fluid  ">
+    <h2 class="text-center text-success pt-4 "> ***Nos Gateaux Personalisés*** </h2>
+
+    <section class="row pt-4">
+
+        <article class="col-md-3 " *ngFor="let l of listegateauxpersonalises">
+            <div class="zoom colonne">
+                <div>
+                    <div><img style=" height :300px;" src="{{l.links}}" class="card-img-top w-300 " alt="..."></div>
+                </div>
+            </div>
+            <div class="card-body">
+                <h5 class="card-title text-center text-danger"> {{l.title}} </h5>
+                <p class="card-text">
+                    <td>{{l.Description}}</td>
+                </p>
+                <button class=" btn btn-primary text-center mr-4"  type="button">
+                    <td>{{l.Prix}}</td>
+                    
+                    <a href="" class="btn btn-danger btn-sm m-2"><i class="far fa-heart"></i></a>
+                </button>
+            </div>
+        </article>
+    </section>
+</main>
+
+<router-outlet></router-outlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<router-outlet></router-outlet>

@@ -1,0 +1,71 @@
+<div class="container container-center">
+    <div class="page-header text-center text-danger text-uppercase">
+
+    </div>
+
+    <!-- *************************************Paiement********************** -->
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-xs-12 col-md-6 col-md-offset-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <h3 class="text-center">Détails de Paiement</h3>
+                            <img style="height:auto; width: 30%; " src="../../../assets/mastercard.png">
+                            <img style="height:auto; width: 30%; " src="../../../assets/Paypal.png">
+                            <img style="height:auto; width: 30%; " src="../../../assets/discover.png">
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- **************************************Les champs a remplir********************* -->
+
+                <div class="panel-body">
+                    <form class="form">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="form-group"> <label>Numéro de Carte</label>
+                                    <div class="input-group"> <input type="tel" class="form-control"
+                                            placeholder="Valider Numéro" /> <span class="input-group-addon"></span>
+                                        <i class="fa fa-2x fa-credit-card text-center text-primary ms-3 "></i>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-7 col-md-7">
+                                    <div class="form-group"> <label><span class="hidden-xs">Date
+                                                d'expiration</span><span class="visible-xs-inline"></span> </label>
+                                        <input type="tel" class="form-control" placeholder="MM / YY" />
+                                    </div>
+                                </div>
+                                <div class="col-xs-5 col-md-5 pull-right">
+                                    <div class="form-group"> <label>CV CODE</label> <input type="tel"
+                                            class="form-control" placeholder="CVC" /> </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <div class="form-group"> <label>Nom</label> <input type="text" class="form-control"
+                                            placeholder="Nom" /> </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+
+
+                <!-- ************************Creation du boutton de confirmation*************** -->
+                <div class="panel-footer">
+                    <div class="row">
+                        <div class="col-xs-12"> <button class="btn btn-success btn-lg btn-block">Confirmer
+                            </button> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<router-outlet> </router-outlet>

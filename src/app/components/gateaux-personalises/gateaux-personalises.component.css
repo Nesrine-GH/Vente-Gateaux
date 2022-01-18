@@ -1,0 +1,14 @@
+
+.container{
+ flex-grow: 1;
+}
+.zoom div img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .2s ease-in-out;
+	transition: .2s ease-in-out;
+}
+.zoom div:hover img {
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}

@@ -1,0 +1,102 @@
+{
+    "GateauxPersonalises": [
+        {
+            "id": 1,
+            "links": "../../assets/UNICORN.png",
+            "title": "Licorne Chubby sur gâteau cookies",
+            "Description": "Chubby Unicorn ! Plus gourmande que cette licorne, vous ne trouverez pas ! Comme les petits enfants, elle n'a de cessé de réclamer des gâteaux et des biscuits. Nous pourrions en faire notre mascotte de la gourmandise ! Ce gâteau Licorne à deux étages convient parfaitement à tous les gourmands et fans de licorne, que ce soit pour un anniversaire, un goûter d'enfants ou simplement pour vous faire plaisir ! ",
+            "Prix": "82 €"
+        },
+        {
+            "id": 2,
+            "links": "../../assets/MACHA.jpg",
+            "title": "Gâteau fleuris avec figurine Macha",
+            "Description": "Sur son tricycle rouge, Macha a disparu de vos écrans pour atterrir sur notre gâteau et faire la fête avec vous ! Avec l’ours Michka, qui aime par-dessus tout l’harmonie, Macha part à l’aventure pour de nouvelles découvertes. L’ours Michka est maintenant à la retraite et s’est installé dans une petite cabane dans la forêt, il était autrefois dans cirque. Quelle aventure attend Macha et Michka cette fois-ci ? Découvrez-le avec elle !",
+            "Prix": "79 €"
+        },
+        {
+            "id": 3,
+            "links": "../../assets/POUPE.jpg",
+            "title": "Gâteau Poupée avec Robe Rose",
+            "Description": "Ce grand Gâteau Poupée se distingue par le fait qu'une véritable poupée trône sur sa jupe en gâteau. Le gâteau parfait pour toutes les petites princesses ou toutes les fans de poupées ! La jupe rose, dans laquelle la poupée est enveloppée se compose entièrement de gâteau et d'une fine couche de pâte d'amande imprimée. Grâce à cela, votre poupée porte la plus jolie des robes !",
+            "Prix": "69,90 €"
+        },
+        {
+            "id": 4,
+            "links": "../../assets/RUBAN.jpg",
+            "title": "Gâteau Rose avec ruban",
+            "Description": "La couleur rose véhicule la grâce, l’élégance et la douceur. Cette très jolie couleur s’allie parfaitement avec le doré, le blanc, mais aussi pleins d’autres couleurs. Choisissez vous-même la couleur du ruban qui décore ce délicieux gâteau parmi une large sélection de couleur. Le Gâteau rose avec ruban est une valeur sûre, tant au niveau du design que du goût. N’hésitez plus, et invitez cette douce couleur à votre table !",
+            "Prix": "34,90 €"
+        },
+        {
+            "id": 5,
+            "links": "../../assets/KEEP KALM.jpg",
+            "title": "Gâteau blanc Keep Calm and ...",
+            "Description": "Surprenez vos proches avec un slogan accrocheur et amusant pour un anniversaire ou tout autre événement. Savourez ce délicieux gâteau, profitez de son magnifique design et voyez la bonne humeur se répandre chez vos convives. Le fond de couleur blanc fait très joliment ressortir le texte que vous aurez choisi de faire inscrire dessus. Ce côté personnalisable ne peut que plaire et amuser chacun !",
+            "Prix": "34,90 €"
+        },
+        {
+            "id": 6,
+            "links": "../../assets/PINK.jpg",
+            "title": "Pink Wedding",
+            "Description": "Quoi de mieux pour agrémenter un gâteau de mariage blanc que d’ajouter des couleurs romantiques comme le rose ?Nos chefs pâtissiers ont eu cette pensée quand ils ont conçu le gâteau de mariage rose Pink Wedding. Sur ce gâteau de mariage de trois étages, nous retrouvons un motif de roses, de jolies fleurs comestibles à ne pas manquer lors d'une cérémonie de mariage.",
+            "Prix": "259 €"
+        },
+        {
+            "id": 7,
+            "links": "../../assets/whiteweed.jpg",
+            "title": "White Wedding",
+            "Description": "Pour que le plus beau jour de votre vie soit réussi, il vous faut un gâteau exceptionnel ! Nous avons bien sûr pensé à cela... Voici notre sublime gâteau de mariage, d'un beau blanc/beige pour donner encore plus d'élégance à votre réception ! Le White Wedding est notre plus belle oeuvre ! Un travail minutieux a été réalisé pour rendre ce gâteau encore plus merveilleux ! Les perles raffinés et le joli ruban feront de votre pièce montée une oeuvre d'art !",
+            "Prix": "169 €"
+        },
+        {
+            "id": 8,
+            "links": "../../assets/anniversaire.jpeg",
+            "title": "Gateau Luxe",
+            "Description": "Pour que le plus beau jour de votre vie soit réussi, il vous faut un gâteau exceptionnel ! Nous avons bien sûr pensé à cela... Voici notre sublime gâteau d'anniversaire, d'un beau blanc/rose pour donner encore plus d'élégance à votre réception ! Allez régalez-vous par ce délice!!",
+            "Prix": "70 €"
+        },
+        {
+            "id": 9,
+            "links": "../../assets/baby shower.jpg",
+            "title": "Boy or Girl",
+            "Description": "Un heureux évènement arrive ? Vous êtes enceinte et vous voulez faire une fête pour son arrivée ? Vous voulez faire plaisir à une amie et lui organiser une fête à l‘américaine ? Vous êtes ici au bon endroit ! Dans ce genre d‘évènement, le gâteau est LA pièce maîtresse à ne pas rater ! Pour époustoufler et surprendre tous les invités nous avons donc créér une catégorie spéciale Baby Shower !",
+            "Prix": "160 €"
+        },
+        {
+            "id": 10,
+            "links": "../../assets/baby shower2.jpg",
+            "title": "Baby Shower",
+            "Description": "C’est bien souvent l’occasion d’évoquer sa maternité et son engouement d’être future maman. Alors entre les cadeaux et les photos de circonstance, nous vous proposons une sélection de recettes de gâteaux de baby shower composée de gâteaux et de gourmandises en bleu ou en rose, suivant le sexe de bébé à venir. Si vous aimez les gâteaux en pâte à sucre colorés et décorés avec goût, c’est LA fête qu’il ne faut pas rater.",
+            "Prix": "180 €"
+        },
+
+        
+        {
+            "id": 11,
+            "links": "../../assets/flower.jpg",
+            "title": "Fete Maman",
+            "Description": "A la fin du mois de Mai, nous célébrons la Fête des Mères, une journée particulière pour chacun d’entre nous, que l'on soit proche ou loin de sa maman.Et si cette année vous épatiez votre maman, votre épouse, ou tout autre maman que vos portez dans votre cœur ? Et si cette année vous offriez un joli gâteau au lieu du traditionnel bouquet de fleurs",
+            "Prix": "40 €"
+        },
+        {
+            "id": 12,
+            "links": "../../assets/gateau chaocolat.jpeg",
+            "title": "Choclate's Lovers",
+            "Description": "Un Drip cake très gourmand orné de Ferrero rocher pour les fans de chocolat. Gâteau frais préparé à la commande. Livré surgelé pour garantir le transport. Conseil : en cas de conservation au congélateur, veuillez sortir le gâteau 2h30 avant la dégustation. Que ce soit pour un anniversaire ou pour une occasion particulière que vous souhaitez fêter, rien ne vaut l'acquisition d'un bon gâteau personnalisé.",
+            "Prix": "43 €"
+        }
+        
+
+   
+   
+   
+   
+   
+   
+    ]
+
+
+
+}
+ 
